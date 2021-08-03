@@ -51,6 +51,7 @@ __**The InactSMP plans to have**__
 **Contributing makes the server more fun! Thanks for contributing! ** __**By Contributing you get your name in the ``/inact help`` command and below!**__
 
 ## Contributers
+Github Username | Sevrer Username and rank (You can open a PR to change your rank)
 
 [@alexdr0 - ``[Admin] __alexdr__``](https://github.com/alexdr0)
 
