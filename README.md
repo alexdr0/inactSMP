@@ -30,6 +30,7 @@ __**The InactSMP plans to have**__
   - Daily Chalanges
   - More hearts
   - Daily Rewards
-  - **Lottery**
+  - **Casino**
+    - Web UI funconality, play online
 
 **Please leave your other ideas in the #general channel on the discord**
