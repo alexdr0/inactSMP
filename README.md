@@ -48,7 +48,7 @@ __**The InactSMP plans to have**__
 - All decisions that are contraversial will be put up for a vote in the Discord.
   - Admins can Veto or modify anything at any time
 
-**Contrabuting makes the server more fun! Thanks for contributing. __By Contrabuting you get your name in the ``/inact help`` command and below!__
+**Contributing makes the server more fun! Thanks for contributing! ** __**By Contributing you get your name in the ``/inact help`` command and below!**__
 
 ## Contributers
 
