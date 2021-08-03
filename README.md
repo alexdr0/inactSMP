@@ -52,6 +52,6 @@ __**The InactSMP plans to have**__
 
 ## Contributers
 
-[@alexdr0](https://github.com/alexdr0)
+[@alexdr0 - Admin __alexdr__](https://github.com/alexdr0)
 
 
