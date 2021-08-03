@@ -28,5 +28,8 @@ __**The InactSMP plans to have**__
   - For example level 100 has temporary flying
   - Leaderboard
   - Daily Chalanges
+  - More hearts
+  - Daily Rewards
+  - **Lottery**
 
 **Please leave your other ideas in the #general channel on the discord**
