@@ -24,13 +24,34 @@ __**The InactSMP plans to have**__
 - Minigames (maybe)
 - Storage Drones
 - Building Functonality
+- Buisness Taxes
+- Setup fonts
 - Ranks with level up abilities
-  - For example level 100 has temporary flying
+  - For example level 100 has elytra
+    - Resets evrey 2 weeks
   - Leaderboard
   - Daily Chalanges
   - More hearts
   - Daily Rewards
   - **Casino**
     - Web UI funconality, play online
+- Web UI functonality
+  - Manage your funds and your players
+  - Manage your properties
+  - Manage your land
 
 **Please leave your other ideas in the #general channel on the discord**
+
+## Please keep in mind & Rules
+- **Absolutly no functonality that gives a advantage to one person.**
+- All code reviews are manually reviewed, things that needed to be fix will be commented on.
+- All decisions that are contraversial will be put up for a vote in the Discord.
+  - Admins can Veto or modify anything at any time
+
+**Contrabuting makes the server more fun! Thanks for contributing. __By Contrabuting you get your name in the ``/inact help`` command and below!__
+
+## Contributers
+
+[@alexdr0](https://github.com/alexdr0)
+
+
